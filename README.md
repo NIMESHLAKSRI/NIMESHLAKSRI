@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 😍 In this world of coding, I am a 23-year-old student at SLIATE Campus🏆. I’m a hobbyist newbee at this juncture, learning HTML, CSS, Javascript, PHP, and Java, taking this downtime to explore and grow. I feel like I am on a never-ending journey, learning something new every single day and exploring creativity and the ability to solve problems through programming🎉.Follow my journey of sharpening my skills and sharing my projects!
+Hello! 😍 In this world of coding, I am a 24-year-old student at SLIATE Campus🏆. I’m a hobbyist newbee at this juncture, learning HTML, CSS, Javascript, PHP, and Java, taking this downtime to explore and grow. I feel like I am on a never-ending journey, learning something new every single day and exploring creativity and the ability to solve problems through programming🎉.Follow my journey of sharpening my skills and sharing my projects!
 
 
 ## 🌐 Socials:
